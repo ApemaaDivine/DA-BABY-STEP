@@ -1,19 +1,19 @@
 # PROJECT NAME; DA-BABY-STEP
 FOR DATA ANALYSIS
 .....
-#PROJECT OBJECTIVE; Problem Statement
+# PROJECT OBJECTIVE; Problem Statement
 
 
 
 .....
-#Data Sourcing
+# Data Sourcing
 
 
 
 .....
-Data Transformation
+# Data Transformation
 
 
 
 .....
-Findings And Recommendations
+# Findings And Recommendations
